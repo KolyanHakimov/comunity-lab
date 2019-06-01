@@ -1,0 +1,9 @@
+site_name: My Docs
+nav:
+  - Общее описание: index.md
+  - Полезные ресурсы ЮГУ: task1.md
+  Это основной сайт Югорского университета [ugrasu.ru](http://ugrasu.ru)
+  - Полезные советы: task2.md
+  - Ресурсы студенческого сообщества ЮГУ: links.md
+
+theme: readthedocs
